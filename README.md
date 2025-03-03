@@ -39,5 +39,3 @@ The script outputs an Excel file named "all\_articles.xlsx" containing the extra
 
 *   The script includes random delays between requests to avoid overloading the server and to reduce the chance of getting your IP address blocked.
 
-
-This README should help other users understand how to modify and use your scraping script efficiently. 
